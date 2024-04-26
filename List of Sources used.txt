@@ -1,0 +1,7 @@
+List of Sources used:
+
+1 - https://practicaldatascience.co.uk/data-science/how-to-split-a-pandas-column-string-or-list-into-separate-columns#:~:text=Use%20str.,split()%20function
+
+2 - https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/
+
+3- Stack Overflow
